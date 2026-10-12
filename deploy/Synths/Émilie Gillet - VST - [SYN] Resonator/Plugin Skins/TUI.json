@@ -3179,7 +3179,7 @@
                     }
                 },
                 {
-                    "key": "RINGS|RINGS",
+                    "key": "RESONATOR|RESONATOR",
                     "value": {
                         "version": 4,
                         "actions": [],
@@ -4148,7 +4148,7 @@
         "tabs": [
             {
                 "version": 3,
-                "tabName": "RINGS",
+                "tabName": "RESONATOR",
                 "fnKeyIndex": 0,
                 "fnKeySubIndex": 0,
                 "qlinkBoundsData": [
@@ -4157,7 +4157,7 @@
                     "0 405 612 141",
                     "679 413 252 130"
                 ],
-                "componentName": "RINGS|RINGS",
+                "componentName": "RESONATOR|RESONATOR",
                 "initialSize": "0 0 1280 628",
                 "scale": 1.0
             }
